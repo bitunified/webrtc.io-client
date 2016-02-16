@@ -1,10 +1,10 @@
 {
   "name": "webrtc.io-client",
-  "version": "0.0.2-2",
+  "version": "0.0.2-f1",
   "description": "Drop-in client code for webrtc.io",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sarenji/webrtc.io-client.git"
+    "url": "git://github.com/bitunified/webrtc.io-client.git"
   },
   "main": "./lib/io.js",
   "keywords": [
@@ -13,16 +13,8 @@
   "author": "David Peter <david.a.peter@gmail.com>",
   "contributors": [
     {
-      "name": "David Peter",
-      "email": "david.a.peter@gmail.com"
-    },
-    {
-      "name": "Ben Brittain",
-      "email": "ben@brittain.org"
-    },
-    {
-      "name": "Dennis Mårtensson",
-      "email": "me@dennis.is"
+      "name": "Bert Verhelst",
+      "email": "info@bitunified.nl"
     }
   ],
   "license": "MIT",
